@@ -1,0 +1,5 @@
+#we don't want the node_modules... that's what package.json is for
+node_modules
+
+#we don't need all of phaser up there as well
+phaser-master
