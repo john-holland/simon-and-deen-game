@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "monster_run_1.png",
+	"frame": {"x":90,"y":2,"w":76,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":76,"h":54},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_run_2.png",
+	"frame": {"x":170,"y":2,"w":80,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":8,"w":80,"h":56},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_run_3.png",
+	"frame": {"x":86,"y":66,"w":82,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":6,"w":82,"h":58},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_run_4.png",
+	"frame": {"x":2,"y":66,"w":82,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":82,"h":60},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_run_5.png",
+	"frame": {"x":2,"y":2,"w":86,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":86,"h":62},
+	"sourceSize": {"w":90,"h":64}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "monster_run.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:83dc8250973a7395a13a8e9c336a5eb0$"
+}
+}

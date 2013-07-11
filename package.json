@@ -1,0 +1,27 @@
+{
+  "name": "simonAndDeenGame",
+  "version": "0.1.1",
+  "description": "A game for the MolyJam2013 game jam.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.3.3",
+    "socket.io": "~0.9.16",
+    "ejs": "~0.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "game",
+    "gamejam",
+    "jam",
+    "molyjam",
+    "simon",
+    "deen",
+    "dad"
+  ],
+  "author": "John Holland",
+  "license": "BSD"
+}

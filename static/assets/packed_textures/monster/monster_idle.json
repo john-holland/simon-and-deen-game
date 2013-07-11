@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "monster_idle_1.png",
+	"frame": {"x":2,"y":2,"w":76,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":76,"h":54},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_idle_2.png",
+	"frame": {"x":2,"y":58,"w":76,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":12,"w":76,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_idle_3.png",
+	"frame": {"x":2,"y":112,"w":76,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":16,"w":76,"h":48},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_idle_4.png",
+	"frame": {"x":2,"y":162,"w":76,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":20,"w":76,"h":44},
+	"sourceSize": {"w":90,"h":64}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "monster_idle.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f67bc34191c82026e03c64c9f27dd26$"
+}
+}

@@ -1,0 +1,10 @@
+@font-face {
+    font-family: crimesTimesSix;
+    src: url('Crimes Times Six.ttf');
+}
+
+.simonAndDeenTitle {
+    font-family: crimesTimesSix, Calibri, Verdana, Arial, sans-serif;
+    font-size: 40px;
+    color: white;
+}

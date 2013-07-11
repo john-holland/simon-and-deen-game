@@ -1,0 +1,596 @@
+{"frames": [
+
+{
+	"filename": "monster_chew_1.png",
+	"frame": {"x":408,"y":160,"w":76,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":76,"h":54},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_10.png",
+	"frame": {"x":236,"y":318,"w":76,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":24,"w":76,"h":40},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_11.png",
+	"frame": {"x":80,"y":280,"w":76,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":22,"w":76,"h":42},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_12.png",
+	"frame": {"x":236,"y":270,"w":76,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":18,"w":76,"h":46},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_2.png",
+	"frame": {"x":90,"y":64,"w":76,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":76,"h":58},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_3.png",
+	"frame": {"x":392,"y":270,"w":76,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":12,"w":76,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_4.png",
+	"frame": {"x":236,"y":270,"w":76,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":18,"w":76,"h":46},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_5.png",
+	"frame": {"x":422,"y":2,"w":80,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":22,"w":80,"h":42},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_6.png",
+	"frame": {"x":258,"y":60,"w":78,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":24,"w":78,"h":40},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_7.png",
+	"frame": {"x":80,"y":324,"w":76,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":28,"w":76,"h":36},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_8.png",
+	"frame": {"x":2,"y":324,"w":76,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":28,"w":76,"h":36},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_9.png",
+	"frame": {"x":392,"y":368,"w":76,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":28,"w":76,"h":36},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_1.png",
+	"frame": {"x":246,"y":160,"w":76,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":76,"h":54},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_10.png",
+	"frame": {"x":158,"y":280,"w":76,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":24,"w":76,"h":40},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_11.png",
+	"frame": {"x":392,"y":324,"w":76,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":22,"w":76,"h":42},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_12.png",
+	"frame": {"x":158,"y":232,"w":76,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":18,"w":76,"h":46},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_2.png",
+	"frame": {"x":174,"y":62,"w":76,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":76,"h":58},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_3.png",
+	"frame": {"x":314,"y":256,"w":76,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":12,"w":76,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_4.png",
+	"frame": {"x":80,"y":232,"w":76,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":18,"w":76,"h":46},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_5.png",
+	"frame": {"x":340,"y":2,"w":80,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":22,"w":80,"h":42},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_6.png",
+	"frame": {"x":340,"y":46,"w":78,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":24,"w":78,"h":40},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_7.png",
+	"frame": {"x":158,"y":322,"w":76,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":28,"w":76,"h":36},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_8.png",
+	"frame": {"x":314,"y":356,"w":76,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":28,"w":76,"h":36},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_9.png",
+	"frame": {"x":2,"y":282,"w":76,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":24,"w":76,"h":40},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_1.png",
+	"frame": {"x":408,"y":160,"w":76,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":76,"h":54},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_10.png",
+	"frame": {"x":236,"y":216,"w":76,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":12,"w":76,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_11.png",
+	"frame": {"x":158,"y":178,"w":76,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":12,"w":76,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_12.png",
+	"frame": {"x":80,"y":178,"w":76,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":12,"w":76,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_13.png",
+	"frame": {"x":2,"y":178,"w":76,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":12,"w":76,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_14.png",
+	"frame": {"x":80,"y":124,"w":76,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":12,"w":76,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_15.png",
+	"frame": {"x":158,"y":360,"w":74,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":74,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_16.png",
+	"frame": {"x":224,"y":576,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":8,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_17.png",
+	"frame": {"x":150,"y":576,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_18.png",
+	"frame": {"x":76,"y":524,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_19.png",
+	"frame": {"x":2,"y":524,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_2.png",
+	"frame": {"x":330,"y":146,"w":76,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":76,"h":54},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_20.png",
+	"frame": {"x":372,"y":568,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_21.png",
+	"frame": {"x":298,"y":556,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_22.png",
+	"frame": {"x":224,"y":522,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_23.png",
+	"frame": {"x":150,"y":522,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_24.png",
+	"frame": {"x":76,"y":470,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_25.png",
+	"frame": {"x":2,"y":470,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_26.png",
+	"frame": {"x":372,"y":514,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_27.png",
+	"frame": {"x":298,"y":502,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_28.png",
+	"frame": {"x":224,"y":468,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_29.png",
+	"frame": {"x":150,"y":468,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_3.png",
+	"frame": {"x":252,"y":102,"w":76,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":8,"w":76,"h":56},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_30.png",
+	"frame": {"x":76,"y":416,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_31.png",
+	"frame": {"x":2,"y":416,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_32.png",
+	"frame": {"x":372,"y":460,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_33.png",
+	"frame": {"x":298,"y":448,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_34.png",
+	"frame": {"x":224,"y":414,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_35.png",
+	"frame": {"x":150,"y":414,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_36.png",
+	"frame": {"x":76,"y":362,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_37.png",
+	"frame": {"x":2,"y":362,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_38.png",
+	"frame": {"x":382,"y":406,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_39.png",
+	"frame": {"x":308,"y":394,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_4.png",
+	"frame": {"x":338,"y":88,"w":76,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":8,"w":76,"h":56},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_40.png",
+	"frame": {"x":234,"y":360,"w":72,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":72,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_5.png",
+	"frame": {"x":420,"y":46,"w":76,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":8,"w":76,"h":56},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_6.png",
+	"frame": {"x":2,"y":66,"w":76,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":8,"w":76,"h":56},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_7.png",
+	"frame": {"x":416,"y":104,"w":76,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":76,"h":54},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_8.png",
+	"frame": {"x":2,"y":124,"w":76,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":12,"w":76,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_death_9.png",
+	"frame": {"x":402,"y":216,"w":76,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":12,"w":76,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_idle_1.png",
+	"frame": {"x":408,"y":160,"w":76,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":76,"h":54},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_idle_2.png",
+	"frame": {"x":324,"y":202,"w":76,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":12,"w":76,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_idle_3.png",
+	"frame": {"x":2,"y":232,"w":76,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":16,"w":76,"h":48},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_idle_4.png",
+	"frame": {"x":314,"y":310,"w":76,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":20,"w":76,"h":44},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_run_1.png",
+	"frame": {"x":168,"y":122,"w":76,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":76,"h":54},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_run_2.png",
+	"frame": {"x":258,"y":2,"w":80,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":8,"w":80,"h":56},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_run_3.png",
+	"frame": {"x":174,"y":2,"w":82,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":6,"w":82,"h":58},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_run_4.png",
+	"frame": {"x":90,"y":2,"w":82,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":82,"h":60},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_run_5.png",
+	"frame": {"x":2,"y":2,"w":86,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":86,"h":62},
+	"sourceSize": {"w":90,"h":64}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "monster.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7c293352523f6500110eeecb376fe823$"
+}
+}

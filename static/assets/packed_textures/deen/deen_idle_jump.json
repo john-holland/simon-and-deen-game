@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "deen_idle_jump_1.png",
+	"frame": {"x":28,"y":50,"w":20,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":10,"w":20,"h":54},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "deen_idle_jump_2.png",
+	"frame": {"x":2,"y":2,"w":24,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":14,"w":24,"h":50},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "deen_idle_jump_3.png",
+	"frame": {"x":28,"y":2,"w":24,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":18,"w":24,"h":46},
+	"sourceSize": {"w":64,"h":64}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "deen_idle_jump.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d905313c82c25a4b9f23fe9ff6cbc1e4$"
+}
+}

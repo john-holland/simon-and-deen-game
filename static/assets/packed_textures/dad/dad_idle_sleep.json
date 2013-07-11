@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "dad_idle_sleep_1.png",
+	"frame": {"x":2,"y":37,"w":60,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":60,"h":33},
+	"sourceSize": {"w":90,"h":41}
+},
+{
+	"filename": "dad_idle_sleep_2.png",
+	"frame": {"x":64,"y":2,"w":60,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":60,"h":33},
+	"sourceSize": {"w":90,"h":41}
+},
+{
+	"filename": "dad_idle_sleep_3.png",
+	"frame": {"x":2,"y":2,"w":60,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":60,"h":33},
+	"sourceSize": {"w":90,"h":41}
+},
+{
+	"filename": "dad_idle_sleep_4.png",
+	"frame": {"x":64,"y":37,"w":60,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":7,"w":60,"h":31},
+	"sourceSize": {"w":90,"h":41}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "dad_idle_sleep.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bd1118eed56a96d5c5883a3d2237231d$"
+}
+}

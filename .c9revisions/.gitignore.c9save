@@ -1,0 +1,21 @@
+{"ts":1373510281495,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1373510288006,"patch":[[{"diffs":[[1,"#"]],"start1":0,"start2":0,"length1":0,"length2":1}]],"length":1,"saved":false}
+{"ts":1373510298830,"patch":[[{"diffs":[[0,"#"],[1,"we don't want the node_modules... that's what package.json is for\n"]],"start1":0,"start2":0,"length1":1,"length2":67}]],"length":67,"saved":false}
+{"ts":1373510304406,"patch":[[{"diffs":[[0," is for\n"],[1,"nodeM"]],"start1":59,"start2":59,"length1":8,"length2":13}]],"length":72,"saved":false}
+{"ts":1373510306509,"patch":[[{"diffs":[[0,"node"],[-1,"M"],[1,"_mod"]],"start1":67,"start2":67,"length1":5,"length2":8}]],"length":75,"saved":false}
+{"ts":1373510307827,"patch":[[{"diffs":[[0," is for\nnode_mod"],[1,"ules"]],"start1":59,"start2":59,"length1":16,"length2":20}]],"length":79,"saved":false}
+{"ts":1373510311010,"patch":[[{"diffs":[[0," is for\nnode_modules"],[1,"/"]],"start1":59,"start2":59,"length1":20,"length2":21}]],"length":80,"saved":false}
+{"ts":1373510313184,"patch":[[{"diffs":[[0,"ules"],[-1,"/"],[1,"*"]],"start1":75,"start2":75,"length1":5,"length2":5}]],"length":80,"saved":false}
+{"ts":1373510315036,"patch":[[{"diffs":[[0," is for\n"],[1,"*"],[0,"node_mod"]],"start1":59,"start2":59,"length1":16,"length2":17}]],"length":81,"saved":false}
+{"ts":1373510323327,"patch":[[{"diffs":[[0,"_modules"],[-1,"*"]],"start1":72,"start2":72,"length1":9,"length2":8}]],"length":80,"saved":false}
+{"ts":1373510325496,"patch":[[{"diffs":[[0,"for\n"],[-1,"*"],[0,"node"]],"start1":63,"start2":63,"length1":9,"length2":8}]],"length":79,"saved":false}
+{"ts":1373510329266,"patch":[[{"diffs":[[0," is for\nnode_modules"],[1,"\n\n"]],"start1":59,"start2":59,"length1":20,"length2":22}]],"length":81,"saved":false}
+{"ts":1373510351824,"patch":[[{"diffs":[[0,"odules\n\n"],[1,"#\n"]],"start1":73,"start2":73,"length1":8,"length2":10}]],"length":83,"saved":false}
+{"ts":1373510353992,"patch":[[{"diffs":[[0,"dules\n\n#"],[1,"we don't need "],[0,"\n"]],"start1":74,"start2":74,"length1":9,"length2":23}]],"length":97,"saved":false}
+{"ts":1373510356741,"patch":[[{"diffs":[[0,"'t need "],[1,"all of phaser o"],[0,"\n"]],"start1":88,"start2":88,"length1":9,"length2":24}]],"length":112,"saved":false}
+{"ts":1373510359742,"patch":[[{"diffs":[[0," phaser "],[-1,"o"],[1,"up there as well\n"],[0,"\n"]],"start1":102,"start2":102,"length1":10,"length2":26}]],"length":128,"saved":false}
+{"ts":1373510362335,"patch":[[{"diffs":[[0,"as well\n"],[1,"pha"],[0,"\n"]],"start1":119,"start2":119,"length1":9,"length2":12}]],"length":131,"saved":false}
+{"ts":1373510363382,"patch":[[{"diffs":[[0,"well\npha"],[1,"ser-"],[0,"\n"]],"start1":122,"start2":122,"length1":9,"length2":13}]],"length":135,"saved":false}
+{"ts":1373510364378,"patch":[[{"diffs":[[0,"\nphaser-"],[1,"ma"],[0,"\n"]],"start1":126,"start2":126,"length1":9,"length2":11}]],"length":137,"saved":false}
+{"ts":1373510365533,"patch":[[{"diffs":[[0,"haser-ma"],[1,"ster"],[0,"\n"]],"start1":128,"start2":128,"length1":9,"length2":13}]],"length":141,"saved":false}
+{"ts":1373510368199,"patch":[[{"diffs":[[0,"r-master"],[-1,"\n"]],"start1":132,"start2":132,"length1":9,"length2":8}]],"length":140,"saved":false}

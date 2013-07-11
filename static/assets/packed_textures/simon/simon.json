@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "simon_idle_1.png",
+	"frame": {"x":90,"y":60,"w":20,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":8,"w":20,"h":56},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_idle_2.png",
+	"frame": {"x":2,"y":116,"w":20,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":10,"w":20,"h":54},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_idle_3.png",
+	"frame": {"x":24,"y":112,"w":20,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":10,"w":20,"h":54},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_idle_4.png",
+	"frame": {"x":2,"y":60,"w":20,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":10,"w":20,"h":54},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_idle_jump_1.png",
+	"frame": {"x":64,"y":108,"w":20,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":10,"w":20,"h":54},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_idle_jump_2.png",
+	"frame": {"x":42,"y":2,"w":24,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":14,"w":24,"h":50},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_idle_jump_3.png",
+	"frame": {"x":68,"y":2,"w":24,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":18,"w":24,"h":46},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_idle_jump_in_air.png",
+	"frame": {"x":42,"y":54,"w":20,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":8,"w":20,"h":56},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_run_1.png",
+	"frame": {"x":68,"y":50,"w":20,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":8,"w":20,"h":56},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_run_2.png",
+	"frame": {"x":94,"y":2,"w":22,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":8,"w":22,"h":56},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_run_3.png",
+	"frame": {"x":2,"y":2,"w":38,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":8,"w":38,"h":56},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_run_jumping.png",
+	"frame": {"x":2,"y":2,"w":38,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":8,"w":38,"h":56},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_sitting_on_stool.png",
+	"frame": {"x":86,"y":118,"w":20,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":42},
+	"sourceSize": {"w":20,"h":42}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "simon.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c7424f917ffe6205bb8fdfb237ae910f$"
+}
+}

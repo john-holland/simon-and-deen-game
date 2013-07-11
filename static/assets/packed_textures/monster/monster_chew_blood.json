@@ -1,0 +1,108 @@
+{"frames": [
+
+{
+	"filename": "monster_chew_blood_1.png",
+	"frame": {"x":84,"y":44,"w":76,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":76,"h":54},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_10.png",
+	"frame": {"x":80,"y":144,"w":76,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":24,"w":76,"h":40},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_11.png",
+	"frame": {"x":80,"y":100,"w":76,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":22,"w":76,"h":42},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_12.png",
+	"frame": {"x":2,"y":100,"w":76,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":18,"w":76,"h":46},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_2.png",
+	"frame": {"x":164,"y":2,"w":76,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":76,"h":58},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_3.png",
+	"frame": {"x":2,"y":46,"w":76,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":12,"w":76,"h":52},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_4.png",
+	"frame": {"x":162,"y":62,"w":76,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":18,"w":76,"h":46},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_5.png",
+	"frame": {"x":2,"y":2,"w":80,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":22,"w":80,"h":42},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_6.png",
+	"frame": {"x":84,"y":2,"w":78,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":24,"w":78,"h":40},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_7.png",
+	"frame": {"x":158,"y":152,"w":76,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":28,"w":76,"h":36},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_8.png",
+	"frame": {"x":2,"y":148,"w":76,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":28,"w":76,"h":36},
+	"sourceSize": {"w":90,"h":64}
+},
+{
+	"filename": "monster_chew_blood_9.png",
+	"frame": {"x":158,"y":110,"w":76,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":24,"w":76,"h":40},
+	"sourceSize": {"w":90,"h":64}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "monster_chew_blood.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f921fc76168c41034ae74f9b347d5084$"
+}
+}

@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+    "filename": "axe.png",
+	"frame": {"x":487,"y":2,"w":12,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":32},
+	"sourceSize": {"w":12,"h":32}
+},
+{
+	"filename": "bed.png",
+	"frame": {"x":423,"y":52,"w":53,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":17},
+	"sourceSize": {"w":53,"h":17}
+},
+{
+	"filename": "branch.png",
+	"frame": {"x":423,"y":2,"w":62,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":16,"w":62,"h":48},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "broken_door.png",
+	"frame": {"x":487,"y":36,"w":11,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":11,"h":55},
+	"sourceSize": {"w":11,"h":59}
+},
+{
+	"filename": "broken_stump.png",
+	"frame": {"x":357,"y":2,"w":64,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":64,"h":56},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "cabin_interior.png",
+	"frame": {"x":83,"y":2,"w":272,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":272,"h":100},
+	"sourceSize": {"w":272,"h":100}
+},
+{
+	"filename": "cabin_top.png",
+	"frame": {"x":83,"y":104,"w":272,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":272,"h":50},
+	"sourceSize": {"w":272,"h":50}
+},
+{
+	"filename": "stool.png",
+	"frame": {"x":500,"y":36,"w":10,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":12},
+	"sourceSize": {"w":10,"h":12}
+},
+{
+	"filename": "table.png",
+	"frame": {"x":357,"y":60,"w":48,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":17},
+	"sourceSize": {"w":48,"h":17}
+},
+{
+	"filename": "tree.png",
+	"frame": {"x":2,"y":2,"w":79,"h":500},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":79,"h":500},
+	"sourceSize": {"w":87,"h":500}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "environment.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:45587248f19f370da26ef9efa66aba3f$"
+}
+}

@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "simon_idle_1.png",
+	"frame": {"x":2,"y":2,"w":20,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":8,"w":20,"h":56},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_idle_2.png",
+	"frame": {"x":24,"y":58,"w":20,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":10,"w":20,"h":54},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_idle_3.png",
+	"frame": {"x":24,"y":2,"w":20,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":10,"w":20,"h":54},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_idle_4.png",
+	"frame": {"x":2,"y":60,"w":20,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":10,"w":20,"h":54},
+	"sourceSize": {"w":64,"h":64}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "simon_idle.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:683cea2afbeda3bb09b872d8406e9e62$"
+}
+}

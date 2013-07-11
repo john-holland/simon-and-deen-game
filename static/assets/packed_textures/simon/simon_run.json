@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "simon_run_1.png",
+	"frame": {"x":42,"y":2,"w":20,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":8,"w":20,"h":56},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_run_2.png",
+	"frame": {"x":2,"y":60,"w":22,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":8,"w":22,"h":56},
+	"sourceSize": {"w":64,"h":64}
+},
+{
+	"filename": "simon_run_3.png",
+	"frame": {"x":2,"y":2,"w":38,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":8,"w":38,"h":56},
+	"sourceSize": {"w":64,"h":64}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "simon_run.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cf55dc951aea00e666257ce3f347be2c$"
+}
+}
